@@ -1,8 +1,7 @@
 <html>
 <body>
 
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
+<h1>Quizler</h1>
 
 <div id="quiz"></div>
 <button id="submit">Get Results</button>
